@@ -60,7 +60,6 @@ Upload to GitHub Pages for free hosting.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Commercial Website</title>
     <style>
-        /* General Reset */
         * {
             margin: 0;
             padding: 0;
@@ -72,7 +71,6 @@ Upload to GitHub Pages for free hosting.
             color: #333;
         }
 
-        /* Header using Flexbox */
         header {
             background-color: #2c3e50;
             color: white;
@@ -105,7 +103,6 @@ Upload to GitHub Pages for free hosting.
             color: #e67e22;
         }
 
-        /* Hero Section */
         .hero {
             background-color: #ecf0f1;
             height: 300px;
@@ -130,7 +127,6 @@ Upload to GitHub Pages for free hosting.
             margin-top: 15px;
         }
 
-        /* Products Section using Flexbox */
         .container {
             width: 90%;
             margin: 40px auto;
@@ -165,7 +161,6 @@ Upload to GitHub Pages for free hosting.
             margin-bottom: 10px;
         }
 
-        /* Footer */
         footer {
             background-color: #34495e;
             color: white;
